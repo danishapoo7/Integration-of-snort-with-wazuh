@@ -1,6 +1,6 @@
 # 🔐 Integration of Snort IDS with Wazuh SIEM
 
-**One-line description:**  
+**description:**  
 An open-source cybersecurity project demonstrating the integration of Snort IDS with Wazuh SIEM to detect network intrusions in real time, centralize IDS alerts, and enable threat monitoring, log correlation, and incident analysis through a unified security dashboard.
 
 ---
@@ -107,16 +107,6 @@ Screenshots included:
 - Automated incident response
 - Multi-agent deployment
 
----
-
-## 👨‍🎓 Authors
-
-- Muhammed Danish AP  
-- Mohammed Nasvin  
-- Delson Dennis  
-
-**Guide:** Malavika  
-**Institute:** RedTeam Hacker Academy  
 
 ---
 
