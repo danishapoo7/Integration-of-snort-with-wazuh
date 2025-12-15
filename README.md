@@ -61,7 +61,7 @@ C:\Snort\log\alert.ids
 ```
 
 ### 2. Wazuh Server Setup
-- Install Wazuh Manager, Indexer, and Dashboard on Linux
+- Install Wazuh Manager, Indexer, and Dashboard on Linux or install wazuh ova in virtual machine.
 - Verify all services are running
 
 ### 3. Wazuh Agent Setup
